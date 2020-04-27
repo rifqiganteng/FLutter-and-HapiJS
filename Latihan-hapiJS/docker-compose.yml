@@ -1,0 +1,18 @@
+version: "3.7"
+services:
+  db:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: amanullah
+      POSTGRES_USER: postgres
+      POSTGRES_DB: music_hapi
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+  web:
+    image: stripe-example-multi-stage
+    depends_on:
+      - db
+    ports:
+      - "7070:7070"s

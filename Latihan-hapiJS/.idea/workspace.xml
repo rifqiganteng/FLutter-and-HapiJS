@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f0b1ae0-b11c-4d3e-9def-f5c8d3cff4c0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1VMnI02D39yRGRI9eFNlDN9rzDU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CICD/CI-CD-HapiJS-Docker" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/routes/landing" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/test/services" />
+      <recent name="$PROJECT_DIR$/test/services/genre" />
+      <recent name="$PROJECT_DIR$/src/routes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="SINGER TEST.updateSinger.saveSingerUpdate should have genreName: &quot;Jessica Ellen Cornish&quot; after updateSinger perform " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/services/singer.service.test.js" />
+      <test-names>
+        <test-name value="SINGER TEST" />
+        <test-name value="updateSinger" />
+        <test-name value="saveSingerUpdate should have genreName: &quot;Jessica Ellen Cornish&quot; after updateSinger perform " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test:coverage" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test:coverage" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.test:coverage" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="Jest.SINGER TEST.updateSinger.saveSingerUpdate should have genreName: &quot;Jessica Ellen Cornish&quot; after updateSinger perform " />
+        <item itemvalue="npm.start:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f0b1ae0-b11c-4d3e-9def-f5c8d3cff4c0" name="Default Changelist" comment="" />
+      <created>1577071748029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577071748029</updated>
+      <workItem from="1577071749452" duration="16362000" />
+      <workItem from="1577331275891" duration="6364000" />
+      <workItem from="1577341059911" duration="24112000" />
+      <workItem from="1577373645559" duration="277000" />
+      <workItem from="1577415180054" duration="4274000" />
+      <workItem from="1577419750227" duration="8708000" />
+      <workItem from="1577437955219" duration="9199000" />
+      <workItem from="1577501723424" duration="13087000" />
+      <workItem from="1577520781210" duration="744000" />
+      <workItem from="1577521583186" duration="370000" />
+      <workItem from="1577524918455" duration="277000" />
+      <workItem from="1577633680559" duration="4398000" />
+      <workItem from="1577638233847" duration="6147000" />
+      <workItem from="1577679529605" duration="536000" />
+      <workItem from="1577680118547" duration="38000" />
+      <workItem from="1577680176428" duration="74000" />
+      <workItem from="1577697806529" duration="1155000" />
+      <workItem from="1577699114793" duration="4466000" />
+      <workItem from="1577704894226" duration="4950000" />
+      <workItem from="1577712956043" duration="140000" />
+      <workItem from="1577713129170" duration="12000" />
+      <workItem from="1577718786890" duration="13960000" />
+      <workItem from="1577795115282" duration="1684000" />
+      <workItem from="1577799124306" duration="4393000" />
+      <workItem from="1577822026356" duration="813000" />
+      <workItem from="1577822868007" duration="72000" />
+      <workItem from="1577836500322" duration="475000" />
+      <workItem from="1577837389409" duration="3157000" />
+      <workItem from="1577841966340" duration="79000" />
+      <workItem from="1577842164839" duration="2698000" />
+      <workItem from="1577873052341" duration="1378000" />
+      <workItem from="1577882912375" duration="439000" />
+      <workItem from="1577886327412" duration="10000" />
+      <workItem from="1577923527450" duration="468000" />
+      <workItem from="1577924074966" duration="158000" />
+      <workItem from="1577978274559" duration="635000" />
+      <workItem from="1577992064379" duration="2276000" />
+      <workItem from="1578022881957" duration="216000" />
+      <workItem from="1578023117439" duration="3736000" />
+      <workItem from="1578060265982" duration="14000" />
+      <workItem from="1578232188552" duration="6911000" />
+      <workItem from="1578551133976" duration="4251000" />
+      <workItem from="1579661162959" duration="5974000" />
+      <workItem from="1579675267694" duration="20389000" />
+      <workItem from="1579752049138" duration="1595000" />
+      <workItem from="1579764274705" duration="2981000" />
+      <workItem from="1579887995185" duration="299000" />
+      <workItem from="1580049621045" duration="2215000" />
+      <workItem from="1580220210871" duration="810000" />
+      <workItem from="1580223434931" duration="190000" />
+      <workItem from="1580304025486" duration="614000" />
+      <workItem from="1580312535884" duration="422000" />
+      <workItem from="1580361365582" duration="637000" />
+      <workItem from="1580367848167" duration="35000" />
+      <workItem from="1580368366636" duration="677000" />
+      <workItem from="1580376567060" duration="1963000" />
+      <workItem from="1580715896715" duration="1260000" />
+      <workItem from="1581101919048" duration="1727000" />
+      <workItem from="1581168772471" duration="184000" />
+      <workItem from="1581560417049" duration="229000" />
+      <workItem from="1581745410668" duration="623000" />
+      <workItem from="1582008656034" duration="1248000" />
+      <workItem from="1582023620875" duration="205000" />
+      <workItem from="1582079111220" duration="27000" />
+      <workItem from="1582104299974" duration="633000" />
+      <workItem from="1582116389172" duration="17000" />
+      <workItem from="1582250526503" duration="1670000" />
+      <workItem from="1582271886808" duration="607000" />
+      <workItem from="1582538688979" duration="9000" />
+      <workItem from="1582998005759" duration="725000" />
+      <workItem from="1583141575023" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="643" y="277" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577680148412">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="643" y="277" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577680148412" />
+  </component>
+</project>
